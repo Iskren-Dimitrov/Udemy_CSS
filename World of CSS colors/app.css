@@ -1,0 +1,55 @@
+/* rgb */
+/* body {
+    background-color: rgb(255,255,0);
+} */
+
+/* # */
+/* body {
+    background-color: #ffff00;
+} */
+
+body {
+    background-color:   white;
+}
+
+p {
+    color: magenta;
+} 
+
+a {
+    color: cyan;
+    background-color: magenta;
+}
+
+h2 {
+    /* Just text */
+    background-color: rgba(0,255,255,0.5);
+    /* The hole background */
+    opacity: 0,5;
+}
+
+h1 {
+    color: purple;
+    background-color: rgba(212,0,255, 0,5);
+}
+
+/* body {
+    background-color: red;
+} */
+
+ul {
+    color: yellowgreen;
+}
+
+span {
+    color: orange;
+}
+
+div {
+    color: red;
+    border: 1px solid blue;
+}
+
+p {
+    border: inherit;
+}
