@@ -1,0 +1,51 @@
+/* body {
+    font-family: Montserrat;
+} */
+/* 
+h1 {
+    text-transform: uppercase;
+    text-decoration-line: line-through;
+    text-decoration-color: cyan;
+    text-decoration-style: wavy;
+    text-decoration: red wavy line-through 10px;
+} */
+
+/* a {
+    text-decoration: none;
+}
+
+#featured {
+    background-color: gold;
+    font-size: 20px;
+}
+
+#reviews {
+    text-decoration: gold underline;
+}
+
+.tag {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+} */
+
+/* 
+#cast {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:hover {
+    text-decoration: underline;
+} */
+
+
+h1 {
+    font-family: Montserrat, sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+}

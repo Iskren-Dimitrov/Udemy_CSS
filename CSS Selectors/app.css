@@ -1,0 +1,66 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* 
+
+body {
+    font-family: Merriweather, serif;
+}
+
+p {
+    color: purple;
+}
+
+.tag {
+    color: orange;
+}
+
+#featured {
+    color: gold;
+}
+
+input[type='number'] {
+    background-color: gold;
+}
+
+
+a[href*='wiki'] {
+    color: cyan;
+}
+
+a[href^='#'] {
+    color: darkviolet;
+}
+
+
+
+
+
+.score,
+.tag {
+    color: white;
+    background-color: orangered;
+} */
+
+
+#cast span {
+    color: grey;
+}
+
+ol>li {
+    border: 1px solid red;
+}
+
+h2.score {
+    color: blueviolet;
+}
