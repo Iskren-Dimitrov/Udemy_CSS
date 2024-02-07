@@ -1,0 +1,61 @@
+/* p {
+    color: olive;
+}
+
+.featured {
+    color: orangered;
+    font-size: 30px;
+}
+
+#special {
+    color: magenta;
+} */
+
+/* 
+.special {
+    color: olive;
+}
+
+p:nth-of-type(2) {
+
+    color: orangered;
+} */
+
+/* #heading {
+    color: purple;
+}
+
+h1 {
+    color: olive !important;
+}
+ */
+
+
+/* h1 {
+    font-weight: normal;
+} */
+
+
+/* .container p {
+    color: magenta;
+}
+
+.container>p {
+    color: yellow;
+}
+
+#quote {
+    color: cyan;
+} */
+
+/* h1 {
+    color: red;
+}
+
+.hero {
+    color: blue;
+}
+
+#hero {
+    color: green
+} */
